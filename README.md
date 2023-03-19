@@ -1,13 +1,13 @@
 ![Design and Development](https://github.com/esskare/esskare/blob/main/tuj.jpg)
-
+<img src = "https://github.com/esskare/esskare/blob/main/tuj.jpg" width = "350"
 # Esther Wangari
 
-✋ I really enjoy learning languages, wireframing, and design in general. I am Currently diving into python and web design projects.
+I really enjoy learning languages, wireframing, and design in general. I am Currently diving into python and web design projects.
 
-##SKILLS AND EXPERIENCE
+## SKILLS AND EXPERIENCE
 
-🤖 PYTHON
-🖥️ HTML, CSS
+* 🤖 PYTHON
+* 🖥️ HTML, CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/esskare)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/esther-mbiriri/)  
 
