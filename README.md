@@ -1,5 +1,5 @@
 
-<img src = "https://github.com/esskare/esskare/blob/main/tuj.jpg" height="400" width = "650" />
+<img src = "https://github.com/esskare/esskare/blob/main/tuj.jpg" height="200" width = "650" />
 # Esther Wangari
 
 I really enjoy learning languages, wireframing, and design in general. I am Currently diving into python and web design projects.
