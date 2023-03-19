@@ -1,5 +1,5 @@
-![Design and Development](https://github.com/esskare/esskare/blob/main/tuj.jpg)
-<img src = "https://github.com/esskare/esskare/blob/main/tuj.jpg" width = "350" />
+
+<img src = "https://github.com/esskare/esskare/blob/main/tuj.jpg" width = "550" />
 # Esther Wangari
 
 I really enjoy learning languages, wireframing, and design in general. I am Currently diving into python and web design projects.
