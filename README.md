@@ -1,6 +1,5 @@
 
-<img src = "https://github.com/esskare/esskare/blob/main/tuj.jpg" height="200" width = "650" />
-# Esther Wangari
+# ESTHER WANGARIU
 
 I really enjoy learning languages, wireframing, and design in general. I am Currently diving into python and web design projects.
 
@@ -8,6 +7,8 @@ I really enjoy learning languages, wireframing, and design in general. I am Curr
 
 * 🤖 PYTHON
 * 🖥️ HTML, CSS
+
+##LET'S CONNECT ⬇️
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/esskare)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/esther-mbiriri/)  
 
