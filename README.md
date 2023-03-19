@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @esskare
-- 👀 I’m interested in becoming a programmer
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Esther Wangari. I really enjoy learning languages, wireframing and design in general.I am Currently diving into python and web design projrcts.
 
-<!---
-esskare/esskare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esskare)](https://github.com/anuraghazra/github-readme-stats)
