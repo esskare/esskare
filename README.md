@@ -1,5 +1,5 @@
-
-# ESTHER WANGARIU
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' alt='github' />
+# ESTHER WANGARI
 
 I really enjoy learning languages, wireframing, and design in general. I am Currently diving into python and web design projects.
 
