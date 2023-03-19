@@ -4,7 +4,8 @@
 
 ### Hi there 👋, Esther Wangari
 #### Design and Development
-![Design and Development](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.c-sharpcorner.com%2Farticle%2Fcreate-github-repository-and-add-newexisting-project-using-github-desktop%2F&psig=AOvVaw06is4mCbXMqaa7Z9ai-Gi9&ust=1679334852606000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIDH2PzH6P0CFQAAAAAdAAAAABAJ)
+
+![Design and Development](https://github.com/esskare/esskare/blob/main/tuj.jpg)
 
 👋 Hi, I’m Esther Wangari. I really enjoy learning languages, wireframing, and design in general. I am Currently diving into python and web design projects.
 
